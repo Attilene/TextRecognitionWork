@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+sklearn
+mlxtend
+seaborn
+nltk
+jupyter
+dask
+emot
+pyspellchecker
